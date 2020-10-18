@@ -25,18 +25,20 @@ research about One-Class SVM and published an conference article with
 his Senpai. His master's thesis was titled "Neural Network Based Kernel 
 Learning Method for One-Class Support Vector Machine", which was later 
 published with title 
-"[One-class Classification Using Quasi-Linear Support Vector Machine.
-](https://ieeexplore.ieee.org/abstract/document/8616117)"
+[One-class Classification Using Quasi-Linear Support Vector Machine.
+](https://ieeexplore.ieee.org/abstract/document/8616117)
 
 He earned a Bachelor of Engineering with GPA 3.83/4.00 from [University of 
-Electronic Science and Technology of China
-](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China), 
+Electronic Science and Technology of 
+China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China), 
 where he studied computer science, earning several merit base scholarships 
 and got to know machine learning.
 
 He is lover of travel, drive and stamp collection. He is good at cooking.
 Mapo tofu is his specialty dish :-). 
 
+The other Github account of him:
+https://github.com/yudong-wang
 
 ### Skills
 - Machine Learning 
