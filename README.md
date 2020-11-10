@@ -51,7 +51,7 @@ https://github.com/yudong-wang
 ### Programming Experience
 - Python (Major, Skilled)
   - Pandas, Numpy, Scipy
-  - PyTorch, TensorFlow 2.0+, scikit-learn, statsmodels
+  - PyTorch, scikit-learn, statsmodels
   - Matplotlib, Seaborn, Plotly
   - Apache Beam, GCP
 - Matlab/Octave (General)
