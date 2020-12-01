@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 Yudong, WANG is a data scientist at an IoT start-up in Tokyo, Japan. His 
 interests lies at the intersection of analytics, statistics and machine 
 learning methods in bio-informatics, business, finance and engineering.
+In his current work, he developed cuffless blood pressure estimation algorithms 
+using a single wearable optical sensor. And he is working on human posture and motion
+estimation from wrist-worn accelerometer.
 
 He earned a Master of Engineering from 
 [Waseda University](https://www.waseda.jp/top/en/), where he did 
@@ -41,7 +44,7 @@ The other Github account of him:
 https://github.com/yudong-wang
 
 ### Skills
-- Machine Learning 
+- Machine Learning (Statistical Machine Learning Methods, RNN, AE, etc.)
 - Feature Engineering
 - Time-Series Data Analysis
 - Signal Processing
