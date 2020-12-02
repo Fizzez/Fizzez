@@ -16,28 +16,27 @@ Here are some ideas to get you started:
 -->
 
 Yudong, WANG is a data scientist at an IoT start-up in Tokyo, Japan. His 
-interests lies at the intersection of analytics, statistics and machine 
-learning methods in bio-informatics, business, finance and engineering.
-In his current work, he developed cuffless blood pressure estimation algorithms 
-using a single wearable optical sensor. And he is working on human posture and motion
-estimation from wrist-worn accelerometer.
+interests lie at the intersection of analytics, statistics and machine 
+learning methods in bioinformatics, business, finance, and engineering.
+In his current work, he developed cuffless blood pressure estimation algorithms using a single wearable optical sensor. And he is working on human posture and motion
+estimation from a wrist-worn accelerometer.
 
 He earned a Master of Engineering from 
 [Waseda University](https://www.waseda.jp/top/en/), where he did 
-research about One-Class SVM and published an conference article with 
-his Senpai. His master's thesis was titled "Neural Network Based Kernel 
+research about One-Class SVM and published a conference article with 
+his Senpai. His master's thesis was titled "Neural Network-Based Kernel 
 Learning Method for One-Class Support Vector Machine", which was later 
 published with title 
 [One-class Classification Using Quasi-Linear Support Vector Machine.
 ](https://ieeexplore.ieee.org/abstract/document/8616117)
 
-He earned a Bachelor of Engineering with GPA 3.83/4.00 from [University of 
+He earned a Bachelor of Engineering with a GPA of 3.83/4.00 (top 6.4%) from [University of 
 Electronic Science and Technology of 
 China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China), 
 where he studied computer science, earning several merit base scholarships 
 and got to know machine learning.
 
-He is lover of travel, drive and stamp collection. He is good at cooking.
+He is a lover of travel, drive, and stamp collection. He is good at cooking.
 Mapo tofu is his specialty dish :-). 
 
 The other Github account of him:
