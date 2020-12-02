@@ -67,6 +67,7 @@ https://github.com/yudong-wang
   - Matplotlib, Seaborn, Plotly
   - Apache Beam, GCP
 - Matlab/Octave (General)
+- SQL (General)
 - JavaScript (General)
   - Plotly.js, webgl-plot
 - C++ (Familiar with, Like❤️)
