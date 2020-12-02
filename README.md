@@ -21,6 +21,17 @@ learning methods in bioinformatics, business, finance, and engineering.
 In his current work, he developed cuffless blood pressure estimation algorithms using a single wearable optical sensor. And he is working on human posture and motion
 estimation from a wrist-worn accelerometer.
 
+In his work, he
+· Expand self-knowledge to new areas such as anatomy, medical-related, signal processing, time series analysis, and other related research.
+· Perform data collection, integration, analysis, and processing from multiple sources for　making it general enough for multiple projects.
+· Model a wide range of algorithm and machine learning techniques such as regression,
+classification, Neural Nets, etc. Then validate their effectiveness according to the experiment objective.
+· Deliver analysis, experimental results, and conclusion such as a medical-related insight,
+how to improve performance. Then iterate the experiment for better results.
+· Provide a JavaScript application to perform as a experiment instructor.
+· Review code, refactor and make its standard, including providing APIs documentation for ease of usage.
+· Support other data scientists on different projects such as providing insight, suggestions, mentoring on the improvement of algorithms efficiency, and machine learning technique.
+
 He earned a Master of Engineering from 
 [Waseda University](https://www.waseda.jp/top/en/), where he did 
 research about One-Class SVM and published a conference article with 
