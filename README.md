@@ -51,6 +51,8 @@ Mapo tofu is his specialty dish :-).
 
 The other Github account of him:
 https://github.com/yudong-wang
+More details could be found at Wantedly:
+https://www.wantedly.com/users/144583541
 
 ### Skills
 - Machine Learning (Statistical Machine Learning Methods, RNN, AE, etc.)
