@@ -44,13 +44,14 @@ He earned a Bachelor of Engineering with a GPA of 3.83/4.00 (top 6.4%) from [Uni
 Electronic Science and Technology of 
 China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China), 
 where he studied computer science, earning several merit base scholarships 
-and got to know machine learning.
+and got to know machine learning. His graduate essay titled "Data Mining Based Wireless Network KPI Forecasting".
 
 He is a lover of travel, drive, and stamp collection. He is good at cooking.
 Mapo tofu is his specialty dish :-). 
 
 The other Github account of him:
 https://github.com/yudong-wang
+
 More details could be found at Wantedly:
 https://www.wantedly.com/users/144583541
 
